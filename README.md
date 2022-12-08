@@ -1,4 +1,4 @@
-# CISC451/839 - Topics in Data Analytics taught at Queen's University, Fall 2022 Term
+# CISC451 + CISC452 at Queen's University, Fall 2022 Term
 
 Contains 3 relatively smaller data analytics tasks and 1 ML project:
 
@@ -19,3 +19,6 @@ As a key public health measure to fight against infectious diseases, vaccines pr
 Beginning in Spring 2009, a pandemic caused by the H1N1 influenza virus swept across the world. A vaccine for the H1N1 flu virus soon became publicly available in October 2009. In late 2009 and early 2010, the US conducted the National H1N1 Flu Survey, asking respondents whether they had received the H1N1 flu vaccines or not, in conjunction with questions about themselves. These additional questions covered their social, economic, and demographic background, opinions on risks of illness and vaccine effectiveness, and behaviors towards mitigating transmission. This is the source of the dataset we will use for this machine learning project to thoroughly understand how these personal characteristics or features are associated with the personal vaccination statuses to retrieve insights for the future public health efforts.
 
 Therefore, the problem this project attempts to address can be summarized to using machine learning strategies to predict on whether an individual has received a H1N1 flu vaccine or not based on his/her collected personal characteristics, which can be considered as a binary classification machine learning task.
+
+
+Note: CISC451: Topics in Data Analytics, CISC452: neural and genetic computing
