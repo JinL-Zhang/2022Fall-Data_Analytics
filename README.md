@@ -1,4 +1,4 @@
-# CISC451-
+# CISC451/839 - Topics in Data Analytics taught at Queen's University, Fall 2022 Term
 
 Contains 3 relatively smaller data analytics tasks and 1 ML project:
 
